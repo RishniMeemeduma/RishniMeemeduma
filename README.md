@@ -17,9 +17,9 @@
 
 ### Preferred Tech Stack :
 
-<a href="https://www.java.com/en/"><img src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/assets/icons/stack/java.svg" alt="Java" width="70" height="70"/>
+<a href="https://laravel.com/"><img src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/assets/icons/stack/laravel.png" alt="Laravel" width="70" height="70"/>
           </a>
-<a href="https://www.python.org//"><img src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/assets/icons/stack/python.svg" alt="python" width="70" height="70"/>
+<a href="https://vuejs.org/"><img src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/assets/icons/stack/vuejs.webp" alt="vuejs" width="70" height="70"/>
         </a>
 <a href="https://spring.io/"><img src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/assets/icons/stack/spring.svg" alt="SpringBoot" width="70" height="70"/>
           </a>
