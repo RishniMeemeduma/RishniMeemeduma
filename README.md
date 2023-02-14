@@ -1,16 +1,99 @@
-### Hi there 👋
+# Hi👋, I'm Rishni
+<h3 align="center">A passionate fullstack developer.</h3>
 
-<!--
-**RishniMeemeduma/RishniMeemeduma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|GITHUB STATS|MOST USED LANGUAGES|
+|:---:|:---:|
+|[![RishniMeemeduma's github stats](https://github-readme-stats.vercel.app/api?username=RishniMeemeduma&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishniMeemeduma&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
+|![Github Page Visit Count](https://komarev.com/ghpvc/?username=RishniMeemeduma)||
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/images/code.gif?raw=true" width="450" height="225" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on any project that I find interesting.
+- 🌱 I’m currently learning Node, Kafka, React, ...
+- 👯 I’m looking to collaborate on any interesting ideas.
+- 👯 I’m looking to collaborate ...
+- 📫 How to reach me: ashameemeduma@gmail.com
+- 😄 Pronouns: she/her
+
+### Preferred Tech Stack :
+
+<a href="https://www.java.com/en/"><img src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/stack/java.svg" alt="Java" width="70" height="70"/>
+          </a>
+<a href="https://www.python.org//"><img src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/stack/python.svg" alt="python" width="70" height="70"/>
+        </a>
+<a href="https://spring.io/"><img src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/stack/spring.svg" alt="SpringBoot" width="70" height="70"/>
+          </a>
+<a href="https://www.mysql.com/">
+            <img src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/stack/mysql.svg" alt="MySQL SQL" width="70" height="70"/>
+          </a>
+ <a href="https://www.raspberrypi.org/">
+          <img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="raspberrypi programming language" width="70" height="70"/>
+        </a>
+<a href="https://www.docker.com/">
+          <img src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/stack/docker.svg" alt="docker" width="70" height="70"/>
+        </a>
+<a href="https://kubernetes.io/">
+          <img src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/stack/Kubernetes.svg" alt="Kubernetes" width="70" height="70"/>
+        </a>
+<a href="https://en.wikipedia.org/wiki/MacOS">
+          <img src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/stack/apple-original.svg" alt="apple mac osx" width="70" height="70"/>
+        </a>
+<a href="https://en.wikipedia.org/wiki/Linux">
+          <img src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/stack/linux.svg" alt="linux" width="70" height="70"/>
+        </a>
+<a href="https://tomcat.apache.org/">
+          <img src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/stack/tomcat.png" alt="tomcat" width="70" height="70"/>
+        </a>
+
+
+
+### Find me on:
+<br/>
+<a href="https://twitter.com/AselMeemeduma">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/dark/twitter.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/light/twitter.png">
+    <img width="24" style="margin-right: 10px" alt="RishniMeemeduma | Twitter" src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/dark/twitter.png">
+  </picture>
+</a>
+<span>&nbsp;</span>
+<a href="https://www.facebook.com/azel.meemeduma">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/dark/facebook.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/light/facebook.png">
+    <img width="24" style="margin-right: 10px" alt="RishniMeemeduma | Twitter" src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/dark/facebook.png">
+  </picture>
+</a>
+<span>&nbsp;</span>
+<a href="https://www.instagram.com/asel_meemeduma/?igshid=NTdlMDg3MTY%3D">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/dark/instagram.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/light/instagram.png">
+    <img width="24" style="margin-right: 10px" alt="RishniMeemeduma | Twitter" src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/dark/instagram.png">
+  </picture>
+</a>
+<span>&nbsp;</span>
+<a href="https://www.linkedin.com/in/asel-meemeduma">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/dark/linkedin.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/light/linkedin.png">
+    <img width="24" style="margin-right: 10px" alt="RishniMeemeduma | Linkedin" src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/dark/linkedin.png">
+  </picture>
+</a>
+<span>&nbsp;</span>
+<a href="https://stackoverflow.com/users/9610377/asel-meemeduma">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/dark/stackoverflow.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/light/stackoverflow.png">
+    <img width="24" alt="RishniMeemeduma | Stackoverflow" src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/dark/stackoverflow.png">
+  </picture>
+</a>
+<span>&nbsp;</span>
+<a href="https://aselmeemeduma.medium.com/about">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/dark/medium.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/light/medium.png">
+    <img width="24" alt="RishniMeemeduma | Medium" src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/resource/icon/dark/medium.png">
+  </picture>
+</a>
+<br/>
