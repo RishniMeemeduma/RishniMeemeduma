@@ -3,7 +3,7 @@
 
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![RishniMeemeduma's github stats](https://github-readme-stats.vercel.app/api?username=RishniMeemeduma&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishniMeemeduma&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
+|[![RishniMeemeduma's github stats](https://github-readme-stats.vercel.app/api?username=RishniMeemeduma&hide=issues&count_private=true&show_icons=true&theme=tokyonight)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishniMeemeduma&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=RishniMeemeduma)||
 
 <img align="right" alt="GIF" src="https://github.com/RishniMeemeduma/RishniMeemeduma/blob/main/assets/images/code.gif?raw=true" width="450" height="225" />
