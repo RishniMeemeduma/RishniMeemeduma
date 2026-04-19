@@ -19,6 +19,9 @@ traditional software engineering and where AI is taking us next.
 **AI / LLM:** Python • Pydantic • Streamlit • Ollama • OpenAI/Anthropic/Gemini APIs
 **Fullstack:** Laravel • Vue.js • Node.js • MySQL • Docker • Linux
 
+### 🛠 Featured projects
+   - **[CV Analyzer](link)** — AI-powered resume/JD matching using LLM pipelines
+   - **[Project 2](link)** — one-line description
 ### Find me on:
 <br/>
 <a href="https://twitter.com/RishniMeemeduma">
